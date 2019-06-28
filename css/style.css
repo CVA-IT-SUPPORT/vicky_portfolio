@@ -2862,7 +2862,7 @@ h6 {
   background: transparent; }
 
 .subscription .info.valid {
-  color: green; }
+  color: lime; }
 
 .subscription .info.error {
   color: red; }
